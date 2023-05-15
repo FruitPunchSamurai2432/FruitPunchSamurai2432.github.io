@@ -1,2 +1,2 @@
-# FruitPunchSamurai2432.github.io
+# kino.github.io/
 Meine Website
