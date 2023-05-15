@@ -1,2 +1,2 @@
-# Kino.github.io/
+# Kino.github.io
 Meine Website
